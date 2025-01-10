@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://esmaelborges.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>./index.html</loc>
+		<loc>https://esmaelborges.com/</loc>
 		<lastmod>2025-01-07T07:31:40+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/transp-bg-esmaelborges.png</image:loc>
+			<image:loc>https://esmaelborges.com/wp-content/uploads/2025/01/transp-bg-esmaelborges.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/01/transp-bg-esmaelborges.png</image:loc>
+			<image:loc>https://esmaelborges.com/wp-content/uploads/2025/01/transp-bg-esmaelborges.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2024/02/qr_code-e1736146910855.png</image:loc>
+			<image:loc>https://esmaelborges.com/wp-content/uploads/2024/02/qr_code-e1736146910855.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
