@@ -2,15 +2,27 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-03-02T07:11:54+00:00</lastmod>
+		<lastmod>2025-03-14T13:03:24+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/transp-bg-esmaelborges.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/transp-bg-esmaelborgesh-300x219.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/01/transp-bg-esmaelborges.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/home-page-02.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2024/02/qr_code-e1736146910855.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/atenissal-e1741195798439.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/salcompra-marketplace-e1741196482644.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/Nauticsal-home-page01-e1741197225800.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/elementor/thumbs/fada8e66-b365-4139-9f05-ff7b2b78c6dc-e1741198635719-r2faf5ac4r64s2iqkia01w5den8do2ajoxxt34iyo0.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/03/fada8e66-b365-4139-9f05-ff7b2b78c6dc-e1741198635719.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
